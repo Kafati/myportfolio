@@ -1,12 +1,12 @@
 ---
 title: I'm Japheth Korir
-first_name: MacGyver
-last_name: SOMRAT
+first_name: Japheth
+last_name: Korir
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Web Developer
-- Graphic Designer
-- Database Manager
+- Electrical and electronics enginner
+- Telecommunication engineer
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
