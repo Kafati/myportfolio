@@ -1,0 +1,19 @@
+---
+label: blogs
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: custom_class
+  label: custom_class
+- type: text
+  name: custom_attributes
+  label: custom_attributes
+- type: text
+  name: custom_css
+  label: custom_css
