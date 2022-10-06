@@ -1,5 +1,5 @@
 ---
-title: I'm Japheth Korir
+title: homepage
 first_name: Japheth
 last_name: Korir
 bg_image: images/backgrounds/full-nav-bg.jpg
