@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: exampleSite/config.toml
+  label: configurations
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/portfolio
   label: portfolio
