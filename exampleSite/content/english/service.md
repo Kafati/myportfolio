@@ -1,6 +1,8 @@
 ---
 title: SERVICES
 service_list:
+- name: Internet of things
+  image: ''
 - name: Web Development
   image: images/icons/web-development.png
 - name: Computer Aided Design
@@ -9,7 +11,7 @@ service_list:
   image: images/icons/dbms.png
 - name: Software Development
   image: images/icons/software-development.png
-- name: Digital Marketing
+- name: Electronics and pcb design
   image: images/icons/marketing.png
 - name: Mobile App Development
   image: images/icons/mobile-app.png
