@@ -4,7 +4,7 @@ image: images/backgrounds/passport.jpg
 button:
   enable: true
   label: DOWNLOAD MY CV
-  link: ''
+  link: https://github.com/Kafati/myportfolio/blob/master/resume%20JAPHETH%20KORIR%20September%202022%20software.pdf
 experience:
   enable: true
   title: EXPERIENCE
