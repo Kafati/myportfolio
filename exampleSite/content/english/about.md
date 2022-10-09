@@ -4,7 +4,7 @@ image: images/backgrounds/passport.jpg
 button:
   enable: true
   label: DOWNLOAD MY CV
-  link: "#"
+  link: ''
 experience:
   enable: true
   title: EXPERIENCE
@@ -41,4 +41,4 @@ custom_attributes: ''
 custom_css: ''
 
 ---
-I am a competent and energetic electrical engineer with the ability to initiate engineering processes from planning, design and commissioning.I possess a keen interest in maintaining safe working environment. 
+I am a competent and energetic electrical engineer with the ability to initiate engineering processes from planning, design and commissioning.I possess a keen interest in maintaining safe working environment.
