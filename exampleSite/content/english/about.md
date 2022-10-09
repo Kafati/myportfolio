@@ -28,9 +28,9 @@ experience:
     company: Ofgen Africa
     duration: June 2021 - August 2021
     content: |-
-      Design construction and commissioning of solar power plants.
-      Monitoring, operating, and maintaining solar power plants.
-      Analysing project viability from technical, commercial, permitting, and legal aspects of solar power projects from inception to financing.
+      Design construction and commissioning of solar power plants. </br>
+      Monitoring, operating, and maintaining solar power plants. </br>
+      Analysing project viability from technical, commercial, permitting, and legal aspects of solar power projects from inception to financing. </br>
 skill:
   enable: true
   title: SKILL
