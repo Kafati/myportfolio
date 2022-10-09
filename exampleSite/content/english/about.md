@@ -21,9 +21,9 @@ experience:
     company: KAMSHUB LTD
     duration: July 2021 - September 2021
     content: |-
-      - Full-stack well development
-      - Hardware design and interfacing
-      - Process automation
+      Full-stack well development
+      Hardware design and interfacing
+      Process automation
   - name: Electrical Engineering Intern
     company: Ofgen Africa
     duration: June 2021 - August 2021
