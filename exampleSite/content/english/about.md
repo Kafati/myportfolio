@@ -9,11 +9,14 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
-  - name: Web Developer
-    company: Fiverr.com
-    duration: 2016-2018
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
+  - name: Graduate trainee
+    company: Heawei Technologies kenya
+    duration: july 2022 to date
+    content: |-
+      - Mobile money software delivery
+      - Network infrastructure operation and maintenance
+      - Cloud services
+      - High availability cluster servers.
   - name: Graphic Designer
     company: Fiverr.com
     duration: 2015-2018
