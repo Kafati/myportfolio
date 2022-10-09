@@ -8,7 +8,7 @@ theme = "somrat"
 title = "Portfolio | Korir"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2022 [Korir](https://japhethkorir.netlify.app)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -131,12 +131,6 @@ preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/japheth.korir.98"
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
 [[params.social]]
 icon = "fab fa-github"
 link = "https://github.com/Kafati"
