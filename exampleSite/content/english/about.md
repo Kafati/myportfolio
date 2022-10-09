@@ -41,7 +41,7 @@ skill:
     percentage: 85%
   - name: Embedded systems
     percentage: 90%
-  - name: Wordpress
+  - name: 'private cloud '
     percentage: 70%
 custom_class: ''
 custom_attributes: ''
