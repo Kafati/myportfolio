@@ -1,5 +1,5 @@
 ---
-title: homepage
+title: Japheth
 first_name: Japheth
 last_name: Korir
 bg_image: images/backgrounds/full-nav-bg.jpg
@@ -8,9 +8,9 @@ occupations:
 - Electrical and electronics enginner
 - Telecommunication engineer
 slider_images:
-- images/slider/slider-1.jpg
-- images/slider/slider-2.jpg
-- images/slider/slider-3.jpg
+- images/slider/1892783.jpg
+- images/slider/1952167.jpg
+- images/slider/2454622.jpg
 button:
   enable: true
   label: Contact Me
