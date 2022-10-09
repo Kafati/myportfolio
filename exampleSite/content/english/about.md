@@ -37,7 +37,7 @@ skill:
   skill_list:
   - name: Web Development
     percentage: 98%
-  - name: Graphic Design
+  - name: Computer Aided Design
     percentage: 85%
   - name: Database Management
     percentage: 90%
