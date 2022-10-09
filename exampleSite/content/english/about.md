@@ -13,10 +13,10 @@ experience:
     company: Heawei Technologies kenya
     duration: july 2022 to date
     content: |-
-      Mobile money software delivery
-      Network infrastructure operation and maintenance
-      Cloud services
-      High availability cluster servers.
+      Mobile money software delivery </br>
+      Network infrastructure operation and maintenance </br>
+      Cloud services </br>
+      High availability cluster servers. </br>
   - name: Technology and Engineering Intern
     company: KAMSHUB LTD
     duration: July 2021 - September 2021
