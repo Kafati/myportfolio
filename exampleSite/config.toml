@@ -89,7 +89,7 @@ home = ["HTML"]
 [params]
 author = "Korir"
 description = "my portfolio"
-favicon = "images/favicon.png"
+favicon = "images/korir-logos.ico"
 logo_dark = "images/korir-logos_trans.png"
 logo_light = "images/korir-logos_.png"
 logo_width = "150px"
