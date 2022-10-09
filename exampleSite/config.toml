@@ -87,11 +87,11 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "somrat"
-description = "This is meta description"
+author = "Korir"
+description = "my portfolio"
 favicon = "images/favicon.png"
-logo_dark = "images/logo-dark.png"
-logo_light = "images/logo.png"
+logo_dark = "images/korir-logos_trans.png"
+logo_light = "images/korir-logos_.png"
 logo_width = "150px"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -130,7 +130,7 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+link = "https://www.facebook.com/japheth.korir.98"
 [[params.social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/somratpro"
@@ -139,7 +139,7 @@ icon = "fab fa-instagram"
 link = "https://www.instagram.com/somratpro"
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/Kafati"
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/ japheth- kipkoech-korir"
