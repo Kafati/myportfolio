@@ -2,7 +2,7 @@
 title: SERVICES
 service_list:
 - name: Internet of things
-  image: ''
+  image: images/icons/iot.png
 - name: Electronics and pcb design
   image: images/icons/marketing.png
 - name: Computer Aided Drawing and Design
