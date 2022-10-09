@@ -39,7 +39,7 @@ skill:
     percentage: 98%
   - name: Computer Aided Design
     percentage: 85%
-  - name: Database Management
+  - name: Embedded systems
     percentage: 90%
   - name: Wordpress
     percentage: 70%
