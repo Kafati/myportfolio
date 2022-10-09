@@ -17,11 +17,13 @@ experience:
       - Network infrastructure operation and maintenance
       - Cloud services
       - High availability cluster servers.
-  - name: Graphic Designer
-    company: Fiverr.com
-    duration: 2015-2018
-    content: Graphic design is art with a purpose. I love illustration, so logo desing
-      is my favorite work. But i can do many things with graphics.
+  - name: Technology and Engineering Intern
+    company: KAMSHUB LTD
+    duration: July 2021 - September 2021
+    content: |-
+      - Full-stack well development
+      - Hardware design and interfacing
+      - Process automation
   - name: Database Manager
     company: Polytechnic
     duration: 2014-2018
