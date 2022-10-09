@@ -24,11 +24,13 @@ experience:
       - Full-stack well development
       - Hardware design and interfacing
       - Process automation
-  - name: Database Manager
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
+  - name: Electrical Engineering Intern
+    company: Ofgen Africa
+    duration: June 2021 - August 2021
+    content: |-
+      - Design construction and commissioning of solar power plants.
+      - Monitoring, operating, and maintaining solar power plants.
+      - Analysing project viability from technical, commercial, permitting, and legal aspects of solar power projects from inception to financing.
 skill:
   enable: true
   title: SKILL
