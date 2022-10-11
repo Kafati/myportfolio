@@ -1,7 +1,7 @@
 ---
 title: TESTIMONIALS
 testimonial_slider:
-- name: Jessica Jones
+- name: Eng Wycliffe Mwangi
   image: 'images/clients/wycliffe.jpeg '
   designation: Technical Sales Manager KI ENERGYTECH
   content: Japheth is a highly skilled and a motivated Engineer.He gets Technical
