@@ -11,7 +11,7 @@ project_info:
   content: John Doe
 - name: Project Link
   icon: fas fa-link
-  content: https://examplesite.com/
+  content: https://landslidewatch.000webhostapp.com/
 - name: New Item
   icon: fas fa-globe
   content: Add whatever you want
