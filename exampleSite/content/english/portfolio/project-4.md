@@ -1,9 +1,10 @@
 ---
 title: landslide Watch
-date: 2020-05-12T12:14:34.000+06:00
+date: 
 image: images/portfolio/item4.jpg
 categories:
 - database
+- IOT
 description: An IOT landslide monitoring application with  an early warning system
 project_info:
 - name: Client
