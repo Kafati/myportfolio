@@ -5,7 +5,7 @@ last_name: Korir
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Web Developer
-- Electrical and electronics enginner
+- Electrical and electronics engineer
 - Telecommunication engineer
 slider_images:
 - images/slider/1892783.jpg
