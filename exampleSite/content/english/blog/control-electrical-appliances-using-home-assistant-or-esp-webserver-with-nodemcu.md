@@ -3,7 +3,6 @@ custom_attributes = ""
 custom_class = ""
 custom_css = ""
 description = "using Nodemcu controller to switch appliances using either a web server, home assistant or physical buttons."
-draft = true
 title = "Control electrical appliances using Home Assistant or ESP webserver with Nodemcu."
 
 +++
